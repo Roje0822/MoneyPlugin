@@ -26,3 +26,4 @@
 
 ✅ 다운로드
 
+https://www.spigotmc.org/resources/moneyplugin.107214/
