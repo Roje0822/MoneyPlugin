@@ -1,0 +1,12 @@
+name: Money
+main: com.github.roje.rpg.Main
+author: Roje
+description: Minecraft Money plugin
+
+version: 0.1
+api-version: 1.19
+
+depend: [NickLib]
+
+commands:
+  돈:
