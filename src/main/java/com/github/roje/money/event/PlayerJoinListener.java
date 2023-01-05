@@ -1,6 +1,6 @@
 package com.github.roje.money.event;
 
-import com.github.nicklib.data.Config;
+import com.github.roje.money.data.Config;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

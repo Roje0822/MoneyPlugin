@@ -1,6 +1,5 @@
 package com.github.roje.money.data;
 
-import com.github.nicklib.data.Config;
 import org.bukkit.entity.Player;
 
 import static com.github.roje.money.Main.plugin;
