@@ -20,7 +20,7 @@ public class MoneyCmd implements CommandExecutor {
             Player target;
 
             if (args.length == 0) {
-                player.sendMessage("" + data.getMoney());
+                player.sendMessage("당신의 돈은 " + data.getMoney() + " 입니다.");
                 return true;
             } else {
                 if (player.isOp()) {

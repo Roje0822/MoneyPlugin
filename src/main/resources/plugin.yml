@@ -1,5 +1,5 @@
 name: Money
-main: com.github.roje.rpg.Main
+main: com.github.roje.money.Main
 author: Roje
 description: Minecraft Money plugin
 
