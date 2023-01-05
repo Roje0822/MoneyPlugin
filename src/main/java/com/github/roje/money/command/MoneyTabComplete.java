@@ -25,7 +25,7 @@ public class MoneyTabComplete implements TabCompleter {
         if (sender instanceof Player) {
             if (player.isOp()) {
                 if (args.length == 1) {
-                    StringUtil.copyPartialMatches(args[0], Arrays.asList("지급", "차감", "설정", "초기화", "확인", "보내기", "모두지급"), completions); //
+                    StringUtil.copyPartialMatches(args[0], Arrays.asList("지급", "차감", "설정", "초기화", "확인", "보내기", "모두지급"), completions);
                 }
                 else if (args[0].equals("지급") || args[0].equals("차감") || args[0].equals("설정") || args[0].equals("보내기")) {
                     if (args.length == 2) {
